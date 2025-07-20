@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bhumika Ediga is a final-year B.Tech Information Technology student at Sridevi Women's Engineering College, Hyderabad. Passionate about web development and UI/UX design, she builds clean, user-friendly websites and explores tech solutions for real-world problems. With strong skills in Python, HTML, CSS, JavaScript, and tools like Git and Tableau, she’s gained practical experience through internships, certifications, and hands-on projects. She's also an active contributor to campus life as a class representative, event host, and freelance graphic designer.
+I’m Bhumika Ediga, a final-year B.Tech Information Technology student at Sridevi Women's Engineering College, Hyderabad. I’m passionate about web development and UI/UX design, and I love creating clean, user-friendly websites while exploring tech solutions to real-world problems. I’ve developed strong skills in Python, HTML, CSS, JavaScript, and tools like Git and Tableau through internships, certifications, and hands-on projects. Beyond academics, I actively contribute to campus life as a class representative, event host, and freelance graphic designer.
 
 
 ## 🌐 Socials:
